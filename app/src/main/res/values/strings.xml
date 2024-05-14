@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="jetpack_compose">Jetpack Compose</string>
+
+    <string name="empty_string" />
+
+    <string name="navigate_back">Navigate to the previous screen</string>
+
+    <!--Login-->
+    <string name="login_heading_text">Inicio de Sesión</string>
+    <string name="login_email_id_or_phone_label">Correo</string>
+    <string name="login_password_label">Contraseña</string>
+    <string name="login_button_text">Iniciar Sesión</string>
+    <string name="forgot_password">¿Olvidaste tu constraseña?</string>
+    <string name="icon_password_visible">Password Visible</string>
+    <string name="icon_password_hidden">Password Hidden</string>
+
+    <!--Login Error Messages-->
+    <string name="login_error_msg_empty_email_mobile">Porfavor, ingresa tu correo</string>
+    <string name="login_error_msg_empty_password">Porfavor, ingresa tu contraseña</string>
+
+    <!--Login Page - Register Section-->
+    <string name="do_not_have_account">¿No tienes una cuenta?</string>
+    <string name="register">Registrate</string>
+
+    <!--Registration-->
+    <string name="registration_heading_text">Registrate</string>
+    <string name="registration_email_label">Correo</string>
+    <string name="registration_mobile_label">Usuario</string>
+    <string name="registration_password_label">Contraseña</string>
+    <string name="registration_confirm_password_label">Confirma Contraseña</string>
+    <string name="registration_button_text">Registrar</string>
+    <string name="back_to_login">Regresar al login</string>
+
+    <!--Registration Error Messages-->
+    <string name="registration_error_msg_empty_email">Porfavor, ingresa un correo</string>
+    <string name="registration_error_msg_empty_mobile">Porfavor, ingresa un nombre de usuario</string>
+    <string name="registration_error_msg_empty_password">Porfavor, ingresa una contraseña</string>
+    <string name="registration_error_msg_empty_confirm_password">Porfavor, confirma contraseña</string>
+    <string name="registration_error_msg_password_mismatch">Las contraseñas no coinciden</string>
+
+    <!--Dashboard-->
+    <string name="dashboard_title_welcome_user">Bienvenido</string>
+
+
+</resources>
